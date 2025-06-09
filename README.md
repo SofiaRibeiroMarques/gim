@@ -22,10 +22,11 @@ Corso di Grafica in movimento 2025, SUPSI
 
 
 ## Esercizio 3A
-- (https://sofiaribeiromarques.github.io/gim/esercizio_3A/pioggia/index.html)
-- (https://sofiaribeiromarques.github.io/gim/)
+- [Pioggia](https://sofiaribeiromarques.github.io/gim/esercizio_3A/pioggia/index.html)
+- [Neve](https://sofiaribeiromarques.github.io/gim/esercizio_3A/neve/index.html)
+- [Pong](https://sofiaribeiromarques.github.io/gim/esercizio_3A/pong/index.html)
 
 
 
 ## Esercizio 3B
-- [orologio](https://sofiaribeiromarques.github.io/gim/esercizio_3B/orologio_analogico/index.html)
+- [Orologio](https://sofiaribeiromarques.github.io/gim/esercizio_3B/orologio_analogico/index.html)
