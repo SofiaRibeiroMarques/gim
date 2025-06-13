@@ -2,7 +2,8 @@
 Corso di Grafica in movimento 2025, SUPSI
 
 ## Esercizio 1A
-- (https://sofiaribeiromarques.github.io/gim/)
+- [acceso_spento_2](https://sofiaribeiromarques.github.io/gim/esercizio_1A/acceso_spento_2.html)
+- [acceso_spento_3](https://sofiaribeiromarques.github.io/gim/esercizio_1A/acceso_spento_3.html)
 
 
 ## Esercizio 1B
