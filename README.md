@@ -5,6 +5,7 @@ Corso di Grafica in movimento 2025, SUPSI
 - [acceso_spento_2](https://sofiaribeiromarques.github.io/gim/esercizio_1A/acceso_spento_2.html)
 - [acceso_spento_3](https://sofiaribeiromarques.github.io/gim/esercizio_1A/acceso_spento_3.html)
 
+
 - [aperto_chiuso_2](https://sofiaribeiromarques.github.io/gim/esercizio_1A/aperto_chiuso_2.html)
 - [aperto_chiuso_3](https://sofiaribeiromarques.github.io/gim/esercizio_1A/aperto_chiuso_3.html)
 
@@ -16,12 +17,13 @@ Corso di Grafica in movimento 2025, SUPSI
 
 
 ## Esercizio 1B
-- (https://sofiaribeiromarques.github.io/gim/)
+- [logo](https://sofiaribeiromarques.github.io/gim/esercizio_1B/index.html)
 
 
 
 ## Esercizio 1C
-- (https://sofiaribeiromarques.github.io/gim/)
+
+Il testo trasmette quanto la consapevolezza possa togliere naturalezza ai movimenti. Le marionette, pur essendo fatte di legno, si muovono in modo armonioso perché seguono leggi semplici, senza sforzo. L’essere umano (in questo caso principalmente i/il ballerini/o), invece, più cerca di controllare ogni gesto, più rischia di perdere spontaneità, diventano “rigido” nei movimenti. Da quello che ho interpretato dal testo, quando ci si concentra troppo su ciò che si vuole fare, si rischia di rovinare ciò che si voleva ottenere. È come se, spostando l’attenzione in punti sbagliati del corpo, questo rompesse l’equilibrio. A volte serve lasciar fare al corpo (o al sistema), invece di forzarlo. La spontaneità dei movimenti spesso si trova quando smettiamo di pensarci troppo.
 
 
 
