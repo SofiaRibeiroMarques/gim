@@ -28,7 +28,7 @@ Il testo trasmette quanto la consapevolezza possa togliere naturalezza ai movime
 
 
 ## Esercizio 2
-- [Parallasse](https://sofiaribeiromarques.github.io/gim/esercizio_2/index.html)
+- [Parallasse](https://sofiaribeiromarques.github.io/gim/)
 
 
 
